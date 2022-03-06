@@ -1,0 +1,6 @@
+id,region,incomeLevel,education,health
+BRA,LCN,UMC,1,0.48
+CHN,EAS,UMC,0.17,0.17
+FRA,ECS,HIC,0.75,0.58
+NGA,SSF,LMC,0,0
+USA,NAC,HIC,0.65,1

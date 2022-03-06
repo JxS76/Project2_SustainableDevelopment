@@ -1,0 +1,6 @@
+Country,energy,health,education,sanitation
+NGA,1,0,0,0
+BRA,0.53,0.48,1,0.26
+FRA,0.07,0.58,0.75,0.71
+CHN,0.04,0.17,0.17,0.56
+USA,0,1,0.65,1
