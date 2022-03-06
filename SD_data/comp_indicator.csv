@@ -1,0 +1,6 @@
+country,"income level",energy,health,education,sanitation,comp_ind
+CHN,UMC,0.04,0.17,0.17,0.56,0.94
+NGA,LMC,1,0,-0,0,1
+FRA,HIC,0.07,0.58,0.75,0.71,2.11
+BRA,UMC,0.53,0.48,1,0.26,2.27
+USA,HIC,0,1,0.65,1,2.65
